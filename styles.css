@@ -1,5 +1,10 @@
 img {
     width: 300px;
+    
 }
 body{
-    background-
+    background-color: hotpink;
+}
+img{
+    border: 20px groove red;
+}
